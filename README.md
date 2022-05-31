@@ -8,12 +8,12 @@ Link to the ipynb file: https://colab.research.google.com/drive/1j0J0hebxIp-xp_p
 #### 2) Work Flow:
           a) Data Collection
   
-  b) Data Preprocessing
+          b) Data Preprocessing
   
-  c) Feature extraction
+          c) Feature extraction
   
-  d) User Input
+          d) User Input
   
-  e) Cosine Similarity
+          e) Cosine Similarity
   
-  f) List of movies
+          f) List of movies
