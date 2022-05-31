@@ -6,7 +6,7 @@ Link to the ipynb file: https://colab.research.google.com/drive/1j0J0hebxIp-xp_p
 #### 1) Objective: The aim of the project is to recommend movies to the user based on the similarity scores.
 
 #### 2) Work Flow:
-  a) Data Collection
+          a) Data Collection
   
   b) Data Preprocessing
   
