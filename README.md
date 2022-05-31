@@ -17,3 +17,5 @@ Link to the ipynb file: https://colab.research.google.com/drive/1j0J0hebxIp-xp_p
           e) Cosine Similarity
   
           f) List of movies
+
+#### 3) Output: 30 movies based on higher similarity scores are displayed to the user.
