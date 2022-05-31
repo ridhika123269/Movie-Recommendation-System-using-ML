@@ -5,7 +5,18 @@ Link to the ipynb file: https://colab.research.google.com/drive/1j0J0hebxIp-xp_p
 
 #### 1) Objective: The aim of the project is to recommend movies to the user based on the similarity scores.
 
-#### 2) Work Flow:
+#### 2) Libraries used:
+          a) Numpy
+          
+          b) Pandas
+          
+          c) Difflib
+          
+          d) TfidVectorizer
+          
+          e) Cosine_similarity
+
+#### 3) Work Flow:
           a) Data Collection
   
           b) Data Preprocessing
@@ -18,4 +29,4 @@ Link to the ipynb file: https://colab.research.google.com/drive/1j0J0hebxIp-xp_p
   
           f) List of movies
 
-#### 3) Output: 30 movies based on higher similarity scores are displayed to the user.
+#### 4) Output: 30 movies based on higher similarity scores are displayed to the user.
